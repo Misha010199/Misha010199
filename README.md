@@ -17,7 +17,7 @@
 
 <h4><b> Skills</b></h4>
 <ul>
-  <li>Front-End: HTML,CSS,JavaScript,React Native,React JS</li>
+  <li>Front-End: HTML,CSS,JavaScript,React Native,React JS, Material UI, Bootstrap</li>
   <li>Database: MySQL</li>
   <li>Design Tools: Adobe XD,Figma</li>
 </ul>
