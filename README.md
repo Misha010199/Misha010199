@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zainab Mishaal</h1>
-<h3 align="center">A UX Designer& Front-End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/11/web_developing_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misha010199&label=Profile%20views&color=0e75b6&style=flat" alt="misha010199" /> </p>
 
--  **Welcome to my GitHub Profile ! A versatile UX Designer and Front-End Developer.With a passion for creating intuitive and visually appealing experiences, I thrive on bridging the gap between design and functionality. From wireframing to coding, I love crafting seamless solutions that users love.**
+-  **Welcome to my GitHub Profile ! Hi, I’m a full stack developer who enjoys building scalable web applications with clean architecture and intuitive UI/UX. I work mostly with React and Next.js on the frontend, and Node.js with MongoDB or PostgreSQL on the backend. I’m passionate about reusable components, efficient APIs, and writing code that's easy to maintain and test.
+
+🛠️ Always exploring new tools, improving workflows, and contributing to better digital experiences.
+📫 Let’s connect and build something great!
+
+**
 
 - 📫 How to reach me **zainabmishaal2025@gmail.com**
 
@@ -18,6 +23,7 @@
 <h4><b> Skills</b></h4>
 <ul>
   <li>Front-End: HTML,CSS,JavaScript,React Native,React JS, Material UI, Bootstrap</li>
+  <li>Back-End: Node,js , Express.js
   <li>Database: MySQL</li>
   <li>Design Tools: Adobe XD,Figma</li>
 </ul>
