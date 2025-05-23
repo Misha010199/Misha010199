@@ -7,9 +7,9 @@
 -  **Welcome to my GitHub Profile ! Hi, I’m a full stack developer who enjoys building scalable web applications with clean architecture and intuitive UI/UX. I work mostly with React and Next.js on the frontend, and Node.js with MongoDB  on the backend. I’m passionate about reusable components, efficient APIs, and writing code that's easy to maintain and test.**
 
 🛠️ Always exploring new tools, improving workflows, and contributing to better digital experiences.
-📫 Let’s connect and build something great!
 
-- 📫 How to reach me **zainabmishaal2025@gmail.com**
+
+- 📫 Let’s connect and build something great! **zainabmishaal2025@gmail.com**
 
 
 <p align="left">
