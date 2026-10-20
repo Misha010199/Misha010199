@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zainab Mishaal</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="./Frontend.gif">
+<img align="right" alt="Coding" width="350" src="./Frontend.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misha010199&label=Profile%20views&color=0e75b6&style=flat" alt="misha010199" /> </p>
 
